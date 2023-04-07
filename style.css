@@ -1,0 +1,44 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+width: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background: #bae0f5;    
+}
+
+#salesforceimg{
+    height: 100px;
+    
+}
+
+.container{
+background-color: white;
+width: 80%;
+height: 80vh;
+display: flex;
+box-shadow: 5px 5px 10px gray;
+}
+
+input {
+margin: 0.6rem;
+padding: 0.7rem 2.0rem;
+border: none;
+border-radius: 10px;
+box-shadow: 1px 1px 6px gray;
+}
+
+form{
+display: inline-block;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
